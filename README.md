@@ -3,16 +3,26 @@
 **A convolutional neural network using selective convolutional blocks for very high density salt-and-pepper noise removal in gray-scale and color images**
 
 ## Requirements
-- TensorFlow
-- ...
+-TensorFlow <img src="https://www.tensorflow.org/images/tf_logo_horizontal.png"> <br />
 
+[![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg?style=plastic)](https://badge.fury.io/py/tensorflow)
+
+-NumPy <br />
+-OpenCV <br />
+-scikit-image <br />
+-Matplotlib
 
 ## Training
 
+
+
 ## Pre-trained model
 
-## Evaluation
+## Testin
 
+```
+$ python main.py --only_test True --pretrain 'path of saved model'
+```
 
 <!---## This repository contains the python codes for the implementation of the paper "[A very fast and efficient multistage selective convolution filter for removal of salt and pepper noise](https://doi.org/10.1007/s12652-022-03747-7)".
 
