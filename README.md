@@ -3,7 +3,8 @@
 **A convolutional neural network using selective convolutional blocks for very high density salt-and-pepper noise removal in gray-scale and color images**
 
 ## Requirements
--TensorFlow <img src="https://www.tensorflow.org/images/tf_logo_horizontal.png"> <br />
+TensorFlow <img align="right" height="25" src="https://github.com/alirafiee7/SeConvNet/blob/master/figs/tf.png">
+
 
 [![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg?style=plastic)](https://badge.fury.io/py/tensorflow)
 
