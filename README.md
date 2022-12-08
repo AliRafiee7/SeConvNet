@@ -11,18 +11,22 @@ OpenCV <img align="left" height="25" src="figs/OpenCV.png">
 
 scikit-image <img align="left" height="25" src="figs/scikit-image.png">
 
-Matplotlib <img align="left" height="25" src="figs/matplotlib.png">
+<!---Matplotlib <img align="left" height="25" src="figs/matplotlib.png"> --->
 
 ## Training
 
+```
+$ python train.py
+```
+
+<!---## Pre-trained model --->
 
 
-## Pre-trained model
 
-## Testin
+## Testing
 
 ```
-$ python main.py --only_test True --pretrain 'path of saved model'
+$ python test.py
 ```
 
 <!---## This repository contains the python codes for the implementation of the paper "[A very fast and efficient multistage selective convolution filter for removal of salt and pepper noise](https://doi.org/10.1007/s12652-022-03747-7)".
