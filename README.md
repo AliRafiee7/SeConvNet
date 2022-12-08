@@ -3,15 +3,15 @@
 **A convolutional neural network using selective convolutional blocks for very high density salt-and-pepper noise removal in gray-scale and color images**
 
 ## Requirements
-TensorFlow <img align="right" height="25" src="https://github.com/alirafiee7/SeConvNet/blob/master/figs/tf.png">
+TensorFlow <img align="left" height="25" src="figs/tf.png">
 
+NumPy <img align="left" height="25" src="figs/numpy.jpg">
 
-[![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg?style=plastic)](https://badge.fury.io/py/tensorflow)
+OpenCV <img align="left" height="25" src="figs/OpenCV.png">
 
--NumPy <br />
--OpenCV <br />
--scikit-image <br />
--Matplotlib
+scikit-image <img align="left" height="25" src="figs/scikit-image.png">
+
+Matplotlib <img align="left" height="25" src="figs/matplotlib.png">
 
 ## Training
 
