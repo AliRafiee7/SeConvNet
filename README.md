@@ -16,7 +16,7 @@ scikit-image <img align="left" height="25" src="figs/scikit-image.png">
 ## Training
 
 ```
-$ python train.py
+$ python train.py --noise_density 0.95 --image_channels 1 --epoch 50 --batch_size 128 --lr 1e-3 --train_dir data/Train --steps 2000
 ```
 
 <!---## Pre-trained model --->
@@ -26,7 +26,7 @@ $ python train.py
 ## Testing
 
 ```
-$ python test.py
+$ python test.py --noise_density 0.95 --image_channels 1 --model_name model_050.hdf5 --test_dir data/Test --dataset BSD68 --result_dir results --save_result 0
 ```
 
 <!---## This repository contains the python codes for the implementation of the paper "[A very fast and efficient multistage selective convolution filter for removal of salt and pepper noise](https://doi.org/10.1007/s12652-022-03747-7)".
