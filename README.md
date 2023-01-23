@@ -14,17 +14,16 @@ scikit-image <img align="left" height="25" src="figs/scikit-image.png">
 <!---Matplotlib <img align="left" height="25" src="figs/matplotlib.png"> --->
 
 ## Training
-
+Use this command to train the SeConvNet. You can change options (arguments) to your desired ones.
 ```
 $ python train.py --noise_density 0.95 --image_channels 1 --epoch 50 --batch_size 128 --lr 1e-3 --train_dir data/Train --steps 2000
 ```
 
-<!---## Pre-trained model --->
-
-
+## Pre-trained model
+The pre-trained weights are stored in the weights folder.
 
 ## Testing
-
+Use this command to test the SeConvNet. You can change options (arguments) to your desired ones.
 ```
 $ python test.py --noise_density 0.95 --image_channels 1 --model_name model_050.hdf5 --test_dir data/Test --dataset BSD68 --result_dir results --save_result 0
 ```
