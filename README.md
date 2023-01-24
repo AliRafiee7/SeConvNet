@@ -19,7 +19,7 @@ Use this command to train the SeConvNet. You can change options (arguments) to y
 $ python train.py --noise_density 0.95 --image_channels 1 --epoch 50 --batch_size 128 --lr 1e-3 --train_dir data/Train --steps 2000
 ```
 
-## Pre-trained model
+## Pre-trained Model
 The pre-trained weights are stored in the *weights* folder.
 
 ## Testing
