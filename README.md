@@ -20,7 +20,7 @@ $ python train.py --noise_density 0.95 --image_channels 1 --epoch 50 --batch_siz
 ```
 
 ## Pre-trained model
-The pre-trained weights are stored in the weights folder.
+The pre-trained weights are stored in the *weights* folder.
 
 ## Testing
 Use this command to test the SeConvNet. You can change options (arguments) to your desired ones.
