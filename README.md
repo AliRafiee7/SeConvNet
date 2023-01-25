@@ -34,9 +34,6 @@ Path of training data. The default is *data/Train*.
 - **steps** <br />
 Number of steps per epoch in training. The default is *2000*.
 
-## Pre-trained Model
-The pre-trained weights are stored in the *weights* folder.
-
 ## Testing
 Use this command to test the SeConvNet. You can change options (arguments) to your desired ones.
 ```
@@ -48,7 +45,7 @@ Noise density for salt-and-pepper noise. It should be in the interval [0, 1]. Th
 - **image_channels** <br />
 Number of channels in noisy images. It is *1* for gray images and *3* for color images. The default is *1*.
 - **model_name** <br />
-Filename of the model's weights. The default is *model_050.hdf5*.
+Filename of the model's weights. The default is *model_050.hdf5*. You can use the trained weights which are available in the *weights* folder.
 - **test_dir** <br />
 Path of test data containing test datasets. The default is *data/Test*.
 - **dataset** <br />
