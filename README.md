@@ -4,15 +4,15 @@
 
 ## Requirements
 
-Python <img align="left" height="25" src="figs/python.jpg"> 3.8.8
+<a href="#"><img alt="Python" align="left" height="25" width="25" src="figs/python.jpg"></a> [![Python-3.8.8](https://img.shields.io/badge/Python-3.8.8-blue.svg)](##)
 
-TensorFlow <img align="left" height="25" src="figs/tf.png"> 2.4.1
+<a href="#"><img alt="TensorFlow" align="left" height="25" width="25" src="figs/tf.png"></a> [![TensorFlow-2.4.1](https://img.shields.io/badge/TensorFlow-2.4.1-blue.svg)](##)
 
-NumPy <img align="left" height="25" src="figs/numpy.jpg"> 1.19.2
+<a href="#"><img alt="NumPy" align="left" height="25" width="25" src="figs/numpy.jpg"></a> [![NumPy-1.19.2](https://img.shields.io/badge/NumPy-1.19.2-blue.svg)](##)
 
-OpenCV <img align="left" height="25" src="figs/OpenCV.png"> 4.5.1
+<a href="#"><img alt="OpenCV" align="left" height="25" width="25" src="figs/OpenCV.png"></a> [![OpenCV-4.5.1](https://img.shields.io/badge/OpenCV-4.5.1-blue.svg)](##)
 
-scikit-image <img align="left" height="25" src="figs/scikit-image.png"> 0.19.2
+<a href="#"><img alt="scikit-image" align="left" height="25" width="25" src="figs/scikit-image.png"></a> [![scikit-image-0.19.2](https://img.shields.io/badge/scikit--image-0.19.2-blue.svg)](##)
 
 <!---Matplotlib <img align="left" height="25" src="figs/matplotlib.png"> --->
 
