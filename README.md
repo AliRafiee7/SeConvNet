@@ -4,7 +4,7 @@
 
 ## Requirements
 
-Python <img align="left" height="25" src="figs/python.png"> 3.8.8
+Python <img align="left" height="25" src="figs/python.jpg"> 3.8.8
 
 TensorFlow <img align="left" height="25" src="figs/tf.png"> 2.4.1
 
