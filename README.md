@@ -4,7 +4,7 @@
 
 ## Requirements
 
-<a href="##"><img alt="Python" align="left" height="25" width="25" src="figs/python.jpg"></a> [![Python-3.8.8](https://img.shields.io/badge/Python-3.8.8-blue.svg)](##)
+<a href="##"><img alt="Python" align="left" height="25" width="25" src="figs/python.jpg"></a> [![Python-3.8](https://img.shields.io/badge/Python-3.8-blue.svg)](##)
 
 <a href="##"><img alt="TensorFlow" align="left" height="25" width="25" src="figs/tf.png"></a> [![TensorFlow-2.4.1](https://img.shields.io/badge/TensorFlow-2.4.1-blue.svg)](##)
 
