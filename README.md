@@ -1,6 +1,7 @@
 # SeConvNet
  
-**A convolutional neural network using selective convolutional blocks for very high density salt-and-pepper noise removal in gray-scale and color images**
+## A convolutional neural network using selective convolutional blocks for very high density salt-and-pepper noise removal in gray-scale and color images
+This repository contains the Python codes for the implementation of the paper "A convolutional neural network using selective convolutional blocks for very high density salt-and-pepper noise removal in gray-scale and color images".
 
 ## Requirements
 
@@ -58,9 +59,7 @@ Path of saving denoised images. The default is *results*.
 - **save_result** <br />
 Whether to save denoised images or not. It is *0* for not saving and *1* for saving. The default is *0*.
 
-<!---## This repository contains the python codes for the implementation of the paper "[A convolutional neural network using selective convolutional blocks for very high density salt-and-pepper noise removal in gray-scale and color images](https://doi.org/10.1007/s12652-022-03747-7)".
-
-Citation
+<!---## Citation
 Rafiee, A.A., Farhang, M. A convolutional neural network using selective convolutional blocks for very high density salt-and-pepper noise removal in gray-scale and color images. *Journal* (2022). https://doi.org/
 
 [Download citation](https://)
@@ -71,3 +70,7 @@ https://doi.org/
 
 ## Abstract
 ... --->
+
+## MSCF Architecture
+
+![SeConvNet Architecture](/figs/SeConvNet.png)
