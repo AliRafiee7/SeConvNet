@@ -1,7 +1,7 @@
 # SeConvNet
  
-## A convolutional neural network using selective convolutional blocks for very high density salt-and-pepper noise removal in gray-scale and color images
-This repository contains the Python codes for the implementation of the paper "SeConvNet: A convolutional neural network using selective convolutional blocks for very high density salt-and-pepper noise removal in gray-scale and color images."
+## A deep convolutional neural network for salt-and-pepper noise removal using selective convolutional blocks
+This repository contains the Python codes for the implementation of the paper "A deep convolutional neural network for salt-and-pepper noise removal using selective convolutional blocks."
 
 ## Requirements
 
