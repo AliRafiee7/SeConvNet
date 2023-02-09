@@ -5,15 +5,15 @@ This repository contains the Python codes for the implementation of the paper "A
 
 ## Requirements
 
-<a href="##"><img alt="Python" align="left" height="25" width="25" src="figs/python.jpg"></a> [![Python-3.8](https://img.shields.io/badge/Python-3.8-blue.svg)](##)
+<a href="##"><img alt="Python" align="left" height="20" width="20" src="figs/python.jpg"></a> [![Python-3.8](https://img.shields.io/badge/Python-3.8-blue.svg)](##)
 
-<a href="##"><img alt="TensorFlow" align="left" height="25" width="25" src="figs/tf.png"></a> [![TensorFlow-2.4.1](https://img.shields.io/badge/TensorFlow-2.4.1-blue.svg)](##)
+<a href="##"><img alt="TensorFlow" align="left" height="20" width="20" src="figs/tf.png"></a> [![TensorFlow-2.4.1](https://img.shields.io/badge/TensorFlow-2.4.1-blue.svg)](##)
 
-<a href="##"><img alt="NumPy" align="left" height="25" width="25" src="figs/numpy.jpg"></a> [![NumPy-1.19.2](https://img.shields.io/badge/NumPy-1.19.2-blue.svg)](##)
+<a href="##"><img alt="NumPy" align="left" height="20" width="20" src="figs/numpy.jpg"></a> [![NumPy-1.19.2](https://img.shields.io/badge/NumPy-1.19.2-blue.svg)](##)
 
-<a href="##"><img alt="OpenCV" align="left" height="25" width="25" src="figs/OpenCV.png"></a> [![OpenCV-4.5.1](https://img.shields.io/badge/OpenCV-4.5.1-blue.svg)](##)
+<a href="##"><img alt="OpenCV" align="left" height="20" width="20" src="figs/OpenCV.png"></a> [![OpenCV-4.5.1](https://img.shields.io/badge/OpenCV-4.5.1-blue.svg)](##)
 
-<a href="##"><img alt="scikit-image" align="left" height="25" width="25" src="figs/scikit-image.png"></a> [![scikit-image-0.19.2](https://img.shields.io/badge/scikit--image-0.19.2-blue.svg)](##)
+<a href="##"><img alt="scikit-image" align="left" height="20" width="20" src="figs/scikit-image.png"></a> [![scikit-image-0.19.2](https://img.shields.io/badge/scikit--image-0.19.2-blue.svg)](##)
 
 <!---Matplotlib <img align="left" height="25" src="figs/matplotlib.png"> --->
 
