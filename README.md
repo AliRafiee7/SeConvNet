@@ -1,7 +1,19 @@
 # SeConvNet
  
-## A deep convolutional neural network for salt-and-pepper noise removal using selective convolutional blocks
-This repository contains the Python codes for the implementation of the paper "A deep convolutional neural network for salt-and-pepper noise removal using selective convolutional blocks."
+## [A deep convolutional neural network for salt-and-pepper noise removal using selective convolutional blocks](https://doi.org/10.48550/arXiv.2302.05435)
+This repository contains the Python codes for the implementation of the paper "[A deep convolutional neural network for salt-and-pepper noise removal using selective convolutional blocks](https://doi.org/10.48550/arXiv.2302.05435)."
+
+
+## Abstract
+
+<p align="justify">
+In recent years, there has been an unprecedented upsurge in applying deep learning approaches, specifically convolutional neural networks (CNNs), to solve image denoising problems, owing to their superior performance. However, CNNs mostly rely on Gaussian noise, and there is a conspicuous lack of exploiting CNNs for salt-and-pepper (SAP) noise reduction. In this paper, we proposed a deep CNN model, namely SeConvNet, to suppress SAP noise in gray-scale and color images. To meet this objective, we introduce a new selective convolutional (SeConv) block. SeConvNet is compared to state-of-the-art SAP denoising methods using extensive experiments on various common datasets. The results illustrate that the proposed SeConvNet model effectively restores images corrupted by SAP noise and surpasses all its counterparts at both quantitative criteria and visual effects, especially at high and very high noise densities.
+</p>
+
+
+## MSCF Architecture
+
+![SeConvNet Architecture](/figs/SeConvNet.png)
 
 ## Requirements
 
@@ -66,11 +78,5 @@ Rafiee, A.A., Farhang, M. A convolutional neural network using selective convolu
 
 
 ### DOI
-https://doi.org/
+https://doi.org/10.48550/arXiv.2302.05435 --->
 
-## Abstract
-... --->
-
-## MSCF Architecture
-
-![SeConvNet Architecture](/figs/SeConvNet.png)
