@@ -1,8 +1,17 @@
 # SeConvNet
  
-## [A deep convolutional neural network for salt-and-pepper noise removal using selective convolutional blocks](https://doi.org/10.48550/arXiv.2302.05435)
-This repository contains the Python codes for the implementation of the paper "[A deep convolutional neural network for salt-and-pepper noise removal using selective convolutional blocks](https://doi.org/10.48550/arXiv.2302.05435)."
+## [A deep convolutional neural network for salt-and-pepper noise removal using selective convolutional blocks](https://doi.org/10.1016/j.asoc.2023.110535)
+This repository contains the Python codes for the implementation of the paper "[A deep convolutional neural network for salt-and-pepper noise removal using selective convolutional blocks](https://doi.org/10.1016/j.asoc.2023.110535)."
 
+## Citation
+Rafiee, A.A., Farhang, M. A deep convolutional neural network for salt-and-pepper noise removal using selective convolutional blocks. *Applied Soft Computing* (2023). https://doi.org/10.1016/j.asoc.2023.110535
+
+[Download citation as RIS](https://www.sciencedirect.com/sdfe/arp/cite?pii=S1568494623005537&format=application%2Fx-research-info-systems&withabstract=true)<br />
+[Download citation as BibTeX](https://www.sciencedirect.com/sdfe/arp/cite?pii=S1568494623005537&format=text%2Fx-bibtex&withabstract=true)
+
+
+### DOI
+https://doi.org/10.1016/j.asoc.2023.110535
 
 ## Abstract
 
@@ -70,13 +79,3 @@ Name of test dataset. The default is *BSD68*.
 Path of saving denoised images. The default is *results*.
 - **save_result** <br />
 Whether to save denoised images or not. It is *0* for not saving and *1* for saving. The default is *0*.
-
-<!---## Citation
-Rafiee, A.A., Farhang, M. A convolutional neural network using selective convolutional blocks for very high density salt-and-pepper noise removal in gray-scale and color images. *Journal* (2022). https://doi.org/
-
-[Download citation](https://)
-
-
-### DOI
-https://doi.org/10.48550/arXiv.2302.05435 --->
-
